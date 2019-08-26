@@ -401,6 +401,7 @@
     }
     .Outer_container_footer{
         height: 14vw;
+        overflow: hidden;
     }
     .footer__image {
         max-height: 12vw;
